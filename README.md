@@ -10,6 +10,7 @@ radius of circle area, set default to 50
 content -> you should send what you want to have in circle view
 
 you can use a function to return just a text or a view containing many other things.
+
 renderV() {
     return <Text>Deneme yazisi</Text>;
   }
