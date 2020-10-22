@@ -1,5 +1,7 @@
 # react-native-circle-view
 
+![](images/Screenshot_2.png)
+
 Circle wrapper for your content.
 
 Props -> radius, content, style, modify_style
