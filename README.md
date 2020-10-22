@@ -1,4 +1,4 @@
-# react-native-circle-view
+# react-native-gradient-circle-view
 
 ![](images/Screenshot_2.png)
 
