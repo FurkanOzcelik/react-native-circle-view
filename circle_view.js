@@ -9,7 +9,7 @@ const Circle_View = ({
   modify_style = {},
   if_gradient = [false, ['#ddd', '#ddd'], 'vertical'],
 }) => {
-  return if_gradient[0] !== false ? (
+  return typeof if_gradient[0] === 'boolean' && if_gradient[0] ? (
     <LinearGradient
       colors={if_gradient[1]}
       start={if_gradient[2] !== 'horizontal' ? {x: 0, y: 1} : {x: 0, y: 0.5}}
