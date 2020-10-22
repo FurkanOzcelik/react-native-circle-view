@@ -1,6 +1,6 @@
 # react-native-circle-view
 
-![](image/Screenshot_2.png)
+![](images/Screenshot_2.png)
 
 Circle wrapper for your content.
 
